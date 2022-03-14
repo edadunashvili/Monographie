@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guja>
+    <tokens>
+      <token ID="w1">0</token>
+      <token ID="w2">_e</token>
+      <token ID="w3">300</token>
+      <token ID="w4">_e</token>
+      <token ID="w5">_</token>
+      <token ID="w6">vorfeld</token>
+      <token ID="w7">_</token>
+      <token ID="w8">des</token>
+      <token ID="w9">_</token>
+      <token ID="wa">kampfes</token>
+      <token ID="wb">_</token>
+      <token ID="wc">bis</token>
+      <token ID="wd">_</token>
+      <token ID="we">zum</token>
+      <token ID="wf">_</token>
+      <token ID="w10">sieg</token>
+      <token ID="w11">|</token>
+      <token ID="w12">rissen</token>
+      <token ID="w13">sobald</token>
+      <token ID="w14">spie</token>
+      <token ID="w15">eltern</token>
+      <token ID="w16">siebenkoepfige</token>
+      <token ID="w17">tieren</token>
+      <token ID="w18">zerreissen</token>
+      <token ID="w19">thurm</token>
+      <token ID="w1a">schwang</token>
+      <token ID="w1b">verschlingen</token>
+      <token ID="w1c">naeherte</token>
+      <token ID="w1d">brauste</token>
+      <token ID="w1e">strand</token>
+      <token ID="w1f">zurueckhalten</token>
+      <token ID="w20">furchtbar</token>
+      <token ID="w21">mittleren</token>
+      <token ID="w22">drueckte</token>
+      <token ID="w23">morgen</token>
+      <token ID="w24">erwartete</token>
+      <token ID="w25">zweite</token>
+      <token ID="w26">wecken</token>
+      <token ID="w27">pferd</token>
+      <token ID="w28">hangen</token>
+      <token ID="w29">stets</token>
+      <token ID="w2a">sprangen</token>
+      <token ID="w2b">schon</token>
+      <token ID="w2c">geriet</token>
+      <token ID="w2d">erloesen</token>
+      <token ID="w2e">sand</token>
+      <token ID="w2f">entgegen</token>
+      <token ID="w30">fass</token>
+      <token ID="w31">ab</token>
+      <token ID="w32">thiere</token>
+      <token ID="w33">schoen</token>
+      <token ID="w34">traene</token>
+      <token ID="w35">busch</token>
+      <token ID="w36">konnte</token>
+      <token ID="w37">los</token>
+      <token ID="w38">siebenten</token>
+      <token ID="w39">zuerst</token>
+      <token ID="w3a">grossen</token>
+      <token ID="w3b">gekommen</token>
+      <token ID="w3c">beten</token>
+      <token ID="w3d">stelle</token>
+      <token ID="w3e">hauste</token>
+      <token ID="w3f">wurm</token>
+      <token ID="w40">gleich</token>
+      <token ID="w41">hieb</token>
+      <token ID="w42">sah</token>
+      <token ID="w43">fuerchterlichen</token>
+      <token ID="w44">bruecke</token>
+      <token ID="w45">kuechenjunge</token>
+      <token ID="w46">kaempfen</token>
+      <token ID="w47">untier</token>
+      <token ID="w48">hing</token>
+      <token ID="w49">wohin</token>
+      <token ID="w4a">zukommen</token>
+      <token ID="w4b">ungeheuer</token>
+      <token ID="w4c">sank</token>
+      <token ID="w4d">verschlungen</token>
+      <token ID="w4e">furcht</token>
+      <token ID="w4f">aufs</token>
+      <token ID="w50">fuehren</token>
+      <token ID="w51">bestie</token>
+      <token ID="w52">fuerchte</token>
+      <token ID="w53">weinend</token>
+      <token ID="w54">meer</token>
+      <token ID="w55">teufel</token>
+      <token ID="w56">meermann</token>
+      <token ID="w57">weit</token>
+      <token ID="w58">zweiten</token>
+      <token ID="w59">voll</token>
+      <token ID="w5a">drachenberg</token>
+      <token ID="w5b">knie</token>
+      <token ID="w5c">gewaltige</token>
+      <token ID="w5d">schickte</token>
+      <token ID="w5e">kopf</token>
+      <token ID="w5f">wenig</token>
+      <token ID="w60">gesetzt</token>
+      <token ID="w61">feld</token>
+      <token ID="w62">sprang</token>
+      <token ID="w63">hans</token>
+      <token ID="w64">uebte</token>
+      <token ID="w65">getroffen</token>
+      <token ID="w66">stieg</token>
+      <token ID="w67">ans</token>
+      <token ID="w68">stuerzen</token>
+      <token ID="w69">haeupter</token>
+      <token ID="w6a">naechsten</token>
+      <token ID="w6b">genommen</token>
+      <token ID="w6c">zeigen</token>
+      <token ID="w6d">lamia</token>
+      <token ID="w6e">flasche</token>
+      <token ID="w6f">schweif</token>
+      <token ID="w70">herauskommen</token>
+      <token ID="w71">kraft</token>
+      <token ID="w72">wartete</token>
+      <token ID="w73">luft</token>
+      <token ID="w74">wand</token>
+      <token ID="w75">unglueck</token>
+      <token ID="w76">stellte</token>
+      <token ID="w77">kapelle</token>
+      <token ID="w78">gewehr</token>
+      <token ID="w79">feuer</token>
+      <token ID="w7a">herauskam</token>
+      <token ID="w7b">koenigstochter</token>
+      <token ID="w7c">saebel</token>
+      <token ID="w7d">sechs</token>
+      <token ID="w7e">ungetuem</token>
+      <token ID="w7f">lindwurm</token>
+      <token ID="w80">juengling</token>
+      <token ID="w81">wagen</token>
+      <token ID="w82">schlug</token>
+      <token ID="w83">gewartet</token>
+      <token ID="w84">befreite</token>
+      <token ID="w85">neun</token>
+      <token ID="w86">dukaten</token>
+      <token ID="w87">tot</token>
+      <token ID="w88">grossem</token>
+      <token ID="w89">schaden</token>
+      <token ID="w8a">schwert</token>
+      <token ID="w8b">schoss</token>
+      <token ID="w8c">kam</token>
+      <token ID="w8d">koepfe</token>
+      <token ID="w8e">bursch</token>
+      <token ID="w8f">hoehle</token>
+      <token ID="w90">drachen</token>
+      <token ID="w91">drache</token>
+      <token ID="w92">|0</token>
+      <token ID="w93">|0</token>
+    </tokens>
+    <lemmas>
+      <lemma tokenIDs="w1">0</lemma>
+      <lemma tokenIDs="w2">_e</lemma>
+      <lemma tokenIDs="w3">300</lemma>
+      <lemma tokenIDs="w4">_e</lemma>
+      <lemma tokenIDs="w5">_</lemma>
+      <lemma tokenIDs="w6">Vorfeld</lemma>
+      <lemma tokenIDs="w7">_</lemma>
+      <lemma tokenIDs="w8">d</lemma>
+      <lemma tokenIDs="w9">_</lemma>
+      <lemma tokenIDs="wa">Kampf</lemma>
+      <lemma tokenIDs="wb">_</lemma>
+      <lemma tokenIDs="wc">bis</lemma>
+      <lemma tokenIDs="wd">_</lemma>
+      <lemma tokenIDs="we">zum</lemma>
+      <lemma tokenIDs="wf">_</lemma>
+      <lemma tokenIDs="w10">sieg</lemma>
+      <lemma tokenIDs="w11">|</lemma>
+      <lemma tokenIDs="w12">reissen</lemma>
+      <lemma tokenIDs="w13">sobald</lemma>
+      <lemma tokenIDs="w14">speien</lemma>
+      <lemma tokenIDs="w15">Eltern</lemma>
+      <lemma tokenIDs="w16">siebenkopfig</lemma>
+      <lemma tokenIDs="w17">Tier</lemma>
+      <lemma tokenIDs="w18">zerreissen</lemma>
+      <lemma tokenIDs="w19">Turm</lemma>
+      <lemma tokenIDs="w1a">schwingen</lemma>
+      <lemma tokenIDs="w1b">verschlingen</lemma>
+      <lemma tokenIDs="w1c">nähern</lemma>
+      <lemma tokenIDs="w1d">brausen</lemma>
+      <lemma tokenIDs="w1e">Strand</lemma>
+      <lemma tokenIDs="w1f">zurückhalten</lemma>
+      <lemma tokenIDs="w20">furchtbar</lemma>
+      <lemma tokenIDs="w21">mittel</lemma>
+      <lemma tokenIDs="w22">drücken</lemma>
+      <lemma tokenIDs="w23">morgen</lemma>
+      <lemma tokenIDs="w24">erwartet</lemma>
+      <lemma tokenIDs="w25">zweit</lemma>
+      <lemma tokenIDs="w26">wecken</lemma>
+      <lemma tokenIDs="w27">Pferd</lemma>
+      <lemma tokenIDs="w28">hängen</lemma>
+      <lemma tokenIDs="w29">stets</lemma>
+      <lemma tokenIDs="w2a">springen</lemma>
+      <lemma tokenIDs="w2b">schon</lemma>
+      <lemma tokenIDs="w2c">geraten</lemma>
+      <lemma tokenIDs="w2d">Erlös</lemma>
+      <lemma tokenIDs="w2e">Sand</lemma>
+      <lemma tokenIDs="w2f">entgegen</lemma>
+      <lemma tokenIDs="w30">fassen</lemma>
+      <lemma tokenIDs="w31">ab</lemma>
+      <lemma tokenIDs="w32">Tier</lemma>
+      <lemma tokenIDs="w33">schön</lemma>
+      <lemma tokenIDs="w34">Träne</lemma>
+      <lemma tokenIDs="w35">buschen</lemma>
+      <lemma tokenIDs="w36">können</lemma>
+      <lemma tokenIDs="w37">los</lemma>
+      <lemma tokenIDs="w38">siebent</lemma>
+      <lemma tokenIDs="w39">zuerst</lemma>
+      <lemma tokenIDs="w3a">groß</lemma>
+      <lemma tokenIDs="w3b">kommen</lemma>
+      <lemma tokenIDs="w3c">beten</lemma>
+      <lemma tokenIDs="w3d">stellen</lemma>
+      <lemma tokenIDs="w3e">hausen</lemma>
+      <lemma tokenIDs="w3f">wurmen</lemma>
+      <lemma tokenIDs="w40">gleich</lemma>
+      <lemma tokenIDs="w41">hauen</lemma>
+      <lemma tokenIDs="w42">sehen</lemma>
+      <lemma tokenIDs="w43">fürchterlich</lemma>
+      <lemma tokenIDs="w44">Brücke</lemma>
+      <lemma tokenIDs="w45">Küchenjunge</lemma>
+      <lemma tokenIDs="w46">kämpfen</lemma>
+      <lemma tokenIDs="w47">Untier</lemma>
+      <lemma tokenIDs="w48">hangen</lemma>
+      <lemma tokenIDs="w49">wohin</lemma>
+      <lemma tokenIDs="w4a">zukommen</lemma>
+      <lemma tokenIDs="w4b">ungeheuer</lemma>
+      <lemma tokenIDs="w4c">sinken</lemma>
+      <lemma tokenIDs="w4d">verschlingen</lemma>
+      <lemma tokenIDs="w4e">Furcht</lemma>
+      <lemma tokenIDs="w4f">aufs</lemma>
+      <lemma tokenIDs="w50">führen</lemma>
+      <lemma tokenIDs="w51">Bestie</lemma>
+      <lemma tokenIDs="w52">fürchten</lemma>
+      <lemma tokenIDs="w53">weinend</lemma>
+      <lemma tokenIDs="w54">Meer</lemma>
+      <lemma tokenIDs="w55">Teufel</lemma>
+      <lemma tokenIDs="w56">Meermann</lemma>
+      <lemma tokenIDs="w57">weit</lemma>
+      <lemma tokenIDs="w58">zweit</lemma>
+      <lemma tokenIDs="w59">voll</lemma>
+      <lemma tokenIDs="w5a">Drachenberg</lemma>
+      <lemma tokenIDs="w5b">Knie</lemma>
+      <lemma tokenIDs="w5c">gewaltig</lemma>
+      <lemma tokenIDs="w5d">schicken</lemma>
+      <lemma tokenIDs="w5e">Kopf</lemma>
+      <lemma tokenIDs="w5f">wenig</lemma>
+      <lemma tokenIDs="w60">setzen</lemma>
+      <lemma tokenIDs="w61">Feld</lemma>
+      <lemma tokenIDs="w62">springen</lemma>
+      <lemma tokenIDs="w63">Hans</lemma>
+      <lemma tokenIDs="w64">üben</lemma>
+      <lemma tokenIDs="w65">treffen</lemma>
+      <lemma tokenIDs="w66">steigen</lemma>
+      <lemma tokenIDs="w67">ans</lemma>
+      <lemma tokenIDs="w68">stürzen</lemma>
+      <lemma tokenIDs="w69">Haupt</lemma>
+      <lemma tokenIDs="w6a">nächst</lemma>
+      <lemma tokenIDs="w6b">nehmen</lemma>
+      <lemma tokenIDs="w6c">zeigen</lemma>
+      <lemma tokenIDs="w6d">Lamia</lemma>
+      <lemma tokenIDs="w6e">Flasche</lemma>
+      <lemma tokenIDs="w6f">schweifen</lemma>
+      <lemma tokenIDs="w70">herauskommen</lemma>
+      <lemma tokenIDs="w71">Kraft</lemma>
+      <lemma tokenIDs="w72">warten</lemma>
+      <lemma tokenIDs="w73">Luft</lemma>
+      <lemma tokenIDs="w74">winden</lemma>
+      <lemma tokenIDs="w75">Unglück</lemma>
+      <lemma tokenIDs="w76">stellen</lemma>
+      <lemma tokenIDs="w77">Kapelle</lemma>
+      <lemma tokenIDs="w78">Gewähr</lemma>
+      <lemma tokenIDs="w79">Feuer</lemma>
+      <lemma tokenIDs="w7a">herauskommen</lemma>
+      <lemma tokenIDs="w7b">Königstochter</lemma>
+      <lemma tokenIDs="w7c">Säbel</lemma>
+      <lemma tokenIDs="w7d">sechs</lemma>
+      <lemma tokenIDs="w7e">Ungetüm</lemma>
+      <lemma tokenIDs="w7f">Lindwurm</lemma>
+      <lemma tokenIDs="w80">Jüngling</lemma>
+      <lemma tokenIDs="w81">wagen</lemma>
+      <lemma tokenIDs="w82">schlagen</lemma>
+      <lemma tokenIDs="w83">gewarten</lemma>
+      <lemma tokenIDs="w84">befreien</lemma>
+      <lemma tokenIDs="w85">neun</lemma>
+      <lemma tokenIDs="w86">Dukaten</lemma>
+      <lemma tokenIDs="w87">tot</lemma>
+      <lemma tokenIDs="w88">groß</lemma>
+      <lemma tokenIDs="w89">schaden</lemma>
+      <lemma tokenIDs="w8a">Schwert</lemma>
+      <lemma tokenIDs="w8b">schießen</lemma>
+      <lemma tokenIDs="w8c">kommen</lemma>
+      <lemma tokenIDs="w8d">Kopf</lemma>
+      <lemma tokenIDs="w8e">Bursch</lemma>
+      <lemma tokenIDs="w8f">Hölle</lemma>
+      <lemma tokenIDs="w90">Drachen</lemma>
+      <lemma tokenIDs="w91">Drache</lemma>
+      <lemma tokenIDs="w92">|0</lemma>
+      <lemma tokenIDs="w93">|0</lemma>
+    </lemmas>
+    <POStags tagset="stts">
+      <tag tokenIDs="w1">CARD</tag>
+      <tag tokenIDs="w2">XY</tag>
+      <tag tokenIDs="w3">CARD</tag>
+      <tag tokenIDs="w4">XY</tag>
+      <tag tokenIDs="w5">XY</tag>
+      <tag tokenIDs="w6">NN</tag>
+      <tag tokenIDs="w7">XY</tag>
+      <tag tokenIDs="w8">ART</tag>
+      <tag tokenIDs="w9">XY</tag>
+      <tag tokenIDs="wa">NN</tag>
+      <tag tokenIDs="wb">XY</tag>
+      <tag tokenIDs="wc">KON</tag>
+      <tag tokenIDs="wd">XY</tag>
+      <tag tokenIDs="we">APPRART</tag>
+      <tag tokenIDs="wf">XY</tag>
+      <tag tokenIDs="w10">XY</tag>
+      <tag tokenIDs="w11">$(</tag>
+      <tag tokenIDs="w12">VVFIN</tag>
+      <tag tokenIDs="w13">ADV</tag>
+      <tag tokenIDs="w14">VVFIN</tag>
+      <tag tokenIDs="w15">NN</tag>
+      <tag tokenIDs="w16">ADJA</tag>
+      <tag tokenIDs="w17">NN</tag>
+      <tag tokenIDs="w18">VVINF</tag>
+      <tag tokenIDs="w19">NN</tag>
+      <tag tokenIDs="w1a">VVFIN</tag>
+      <tag tokenIDs="w1b">VVINF</tag>
+      <tag tokenIDs="w1c">VVFIN</tag>
+      <tag tokenIDs="w1d">VVFIN</tag>
+      <tag tokenIDs="w1e">NN</tag>
+      <tag tokenIDs="w1f">VVINF</tag>
+      <tag tokenIDs="w20">ADJD</tag>
+      <tag tokenIDs="w21">ADJA</tag>
+      <tag tokenIDs="w22">VVFIN</tag>
+      <tag tokenIDs="w23">ADV</tag>
+      <tag tokenIDs="w24">ADJA</tag>
+      <tag tokenIDs="w25">ADJA</tag>
+      <tag tokenIDs="w26">VVFIN</tag>
+      <tag tokenIDs="w27">NN</tag>
+      <tag tokenIDs="w28">VVFIN</tag>
+      <tag tokenIDs="w29">ADV</tag>
+      <tag tokenIDs="w2a">VVFIN</tag>
+      <tag tokenIDs="w2b">ADV</tag>
+      <tag tokenIDs="w2c">VVFIN</tag>
+      <tag tokenIDs="w2d">NN</tag>
+      <tag tokenIDs="w2e">NN</tag>
+      <tag tokenIDs="w2f">PTKVZ</tag>
+      <tag tokenIDs="w30">VVIMP</tag>
+      <tag tokenIDs="w31">PTKVZ</tag>
+      <tag tokenIDs="w32">NN</tag>
+      <tag tokenIDs="w33">ADJD</tag>
+      <tag tokenIDs="w34">NN</tag>
+      <tag tokenIDs="w35">PTKVZ</tag>
+      <tag tokenIDs="w36">VMFIN</tag>
+      <tag tokenIDs="w37">ADV</tag>
+      <tag tokenIDs="w38">ADJA</tag>
+      <tag tokenIDs="w39">ADV</tag>
+      <tag tokenIDs="w3a">ADJA</tag>
+      <tag tokenIDs="w3b">VVPP</tag>
+      <tag tokenIDs="w3c">VVINF</tag>
+      <tag tokenIDs="w3d">VVFIN</tag>
+      <tag tokenIDs="w3e">VVFIN</tag>
+      <tag tokenIDs="w3f">ADV</tag>
+      <tag tokenIDs="w40">ADV</tag>
+      <tag tokenIDs="w41">VVFIN</tag>
+      <tag tokenIDs="w42">VVFIN</tag>
+      <tag tokenIDs="w43">ADJA</tag>
+      <tag tokenIDs="w44">NN</tag>
+      <tag tokenIDs="w45">NN</tag>
+      <tag tokenIDs="w46">VVFIN</tag>
+      <tag tokenIDs="w47">NN</tag>
+      <tag tokenIDs="w48">VVFIN</tag>
+      <tag tokenIDs="w49">PWAV</tag>
+      <tag tokenIDs="w4a">VVINF</tag>
+      <tag tokenIDs="w4b">ADJD</tag>
+      <tag tokenIDs="w4c">VVFIN</tag>
+      <tag tokenIDs="w4d">VVPP</tag>
+      <tag tokenIDs="w4e">NN</tag>
+      <tag tokenIDs="w4f">APPRART</tag>
+      <tag tokenIDs="w50">VVINF</tag>
+      <tag tokenIDs="w51">NN</tag>
+      <tag tokenIDs="w52">VVFIN</tag>
+      <tag tokenIDs="w53">ADJD</tag>
+      <tag tokenIDs="w54">NN</tag>
+      <tag tokenIDs="w55">NE</tag>
+      <tag tokenIDs="w56">NE</tag>
+      <tag tokenIDs="w57">ADJD</tag>
+      <tag tokenIDs="w58">ADJA</tag>
+      <tag tokenIDs="w59">ADJD</tag>
+      <tag tokenIDs="w5a">ADJA</tag>
+      <tag tokenIDs="w5b">NN</tag>
+      <tag tokenIDs="w5c">ADJA</tag>
+      <tag tokenIDs="w5d">VVFIN</tag>
+      <tag tokenIDs="w5e">NN</tag>
+      <tag tokenIDs="w5f">ADV</tag>
+      <tag tokenIDs="w60">VVPP</tag>
+      <tag tokenIDs="w61">NN</tag>
+      <tag tokenIDs="w62">VVFIN</tag>
+      <tag tokenIDs="w63">NE</tag>
+      <tag tokenIDs="w64">VVFIN</tag>
+      <tag tokenIDs="w65">VVPP</tag>
+      <tag tokenIDs="w66">VVFIN</tag>
+      <tag tokenIDs="w67">APPRART</tag>
+      <tag tokenIDs="w68">VVINF</tag>
+      <tag tokenIDs="w69">NN</tag>
+      <tag tokenIDs="w6a">ADJA</tag>
+      <tag tokenIDs="w6b">VVPP</tag>
+      <tag tokenIDs="w6c">VVINF</tag>
+      <tag tokenIDs="w6d">NE</tag>
+      <tag tokenIDs="w6e">NN</tag>
+      <tag tokenIDs="w6f">VVFIN</tag>
+      <tag tokenIDs="w70">VVINF</tag>
+      <tag tokenIDs="w71">NN</tag>
+      <tag tokenIDs="w72">VVFIN</tag>
+      <tag tokenIDs="w73">NN</tag>
+      <tag tokenIDs="w74">VVFIN</tag>
+      <tag tokenIDs="w75">NN</tag>
+      <tag tokenIDs="w76">VVFIN</tag>
+      <tag tokenIDs="w77">NN</tag>
+      <tag tokenIDs="w78">NN</tag>
+      <tag tokenIDs="w79">NN</tag>
+      <tag tokenIDs="w7a">VVFIN</tag>
+      <tag tokenIDs="w7b">NN</tag>
+      <tag tokenIDs="w7c">NN</tag>
+      <tag tokenIDs="w7d">CARD</tag>
+      <tag tokenIDs="w7e">NN</tag>
+      <tag tokenIDs="w7f">NN</tag>
+      <tag tokenIDs="w80">NN</tag>
+      <tag tokenIDs="w81">VVINF</tag>
+      <tag tokenIDs="w82">VVFIN</tag>
+      <tag tokenIDs="w83">VVPP</tag>
+      <tag tokenIDs="w84">VVFIN</tag>
+      <tag tokenIDs="w85">CARD</tag>
+      <tag tokenIDs="w86">NN</tag>
+      <tag tokenIDs="w87">ADJD</tag>
+      <tag tokenIDs="w88">ADJA</tag>
+      <tag tokenIDs="w89">VVFIN</tag>
+      <tag tokenIDs="w8a">NE</tag>
+      <tag tokenIDs="w8b">VVFIN</tag>
+      <tag tokenIDs="w8c">VVFIN</tag>
+      <tag tokenIDs="w8d">NN</tag>
+      <tag tokenIDs="w8e">NE</tag>
+      <tag tokenIDs="w8f">NN</tag>
+      <tag tokenIDs="w90">NN</tag>
+      <tag tokenIDs="w91">NN</tag>
+      <tag tokenIDs="w92">NE</tag>
+      <tag tokenIDs="w93">NE</tag>
+    </POStags>
+    <orthography>
+      <correction tokenIDs="w6" operation="replace">Vorfeld</correction>
+      <correction tokenIDs="wa" operation="replace">Kampfes</correction>
+      <correction tokenIDs="w15" operation="replace">Eltern</correction>
+      <correction tokenIDs="w16" operation="replace">siebenköpfige</correction>
+      <correction tokenIDs="w17" operation="replace">Tieren</correction>
+      <correction tokenIDs="w18" operation="replace">zerreißen</correction>
+      <correction tokenIDs="w19" operation="replace">Turm</correction>
+      <correction tokenIDs="w1c" operation="replace">näherte</correction>
+      <correction tokenIDs="w1e" operation="replace">Strand</correction>
+      <correction tokenIDs="w1f" operation="replace">zurückhalten</correction>
+      <correction tokenIDs="w22" operation="replace">drückte</correction>
+      <correction tokenIDs="w27" operation="replace">Pferd</correction>
+      <correction tokenIDs="w28" operation="replace">hängen</correction>
+      <correction tokenIDs="w2d" operation="replace">Erlösen</correction>
+      <correction tokenIDs="w2e" operation="replace">Sand</correction>
+      <correction tokenIDs="w32" operation="replace">Tiere</correction>
+      <correction tokenIDs="w33" operation="replace">schön</correction>
+      <correction tokenIDs="w34" operation="replace">Träne</correction>
+      <correction tokenIDs="w3a" operation="replace">großen</correction>
+      <correction tokenIDs="w43" operation="replace">fürchterlichen</correction>
+      <correction tokenIDs="w44" operation="replace">Brücke</correction>
+      <correction tokenIDs="w45" operation="replace">Küchenjunge</correction>
+      <correction tokenIDs="w46" operation="replace">kämpfen</correction>
+      <correction tokenIDs="w47" operation="replace">Untier</correction>
+      <correction tokenIDs="w4e" operation="replace">Furcht</correction>
+      <correction tokenIDs="w50" operation="replace">führen</correction>
+      <correction tokenIDs="w51" operation="replace">Bestie</correction>
+      <correction tokenIDs="w52" operation="replace">fürchte</correction>
+      <correction tokenIDs="w54" operation="replace">Meer</correction>
+      <correction tokenIDs="w55" operation="replace">Teufel</correction>
+      <correction tokenIDs="w56" operation="replace">Meermann</correction>
+      <correction tokenIDs="w5a" operation="replace">Drachenberg</correction>
+      <correction tokenIDs="w5b" operation="replace">Knie</correction>
+      <correction tokenIDs="w5e" operation="replace">Kopf</correction>
+      <correction tokenIDs="w61" operation="replace">Feld</correction>
+      <correction tokenIDs="w64" operation="replace">übte</correction>
+      <correction tokenIDs="w68" operation="replace">stürzen</correction>
+      <correction tokenIDs="w69" operation="replace">Häupter</correction>
+      <correction tokenIDs="w6a" operation="replace">nächsten</correction>
+      <correction tokenIDs="w6e" operation="replace">Flasche</correction>
+      <correction tokenIDs="w6f" operation="replace">schweife</correction>
+      <correction tokenIDs="w71" operation="replace">Kraft</correction>
+      <correction tokenIDs="w73" operation="replace">Luft</correction>
+      <correction tokenIDs="w75" operation="replace">Unglück</correction>
+      <correction tokenIDs="w77" operation="replace">Kapelle</correction>
+      <correction tokenIDs="w78" operation="replace">Gewähr</correction>
+      <correction tokenIDs="w79" operation="replace">Feuer</correction>
+      <correction tokenIDs="w7b" operation="replace">Königstochter</correction>
+      <correction tokenIDs="w7c" operation="replace">Säbel</correction>
+      <correction tokenIDs="w7e" operation="replace">Ungetüm</correction>
+      <correction tokenIDs="w7f" operation="replace">Lindwurm</correction>
+      <correction tokenIDs="w80" operation="replace">Jüngling</correction>
+      <correction tokenIDs="w86" operation="replace">Dukaten</correction>
+      <correction tokenIDs="w88" operation="replace">großem</correction>
+      <correction tokenIDs="w8a" operation="replace">Schwert</correction>
+      <correction tokenIDs="w8d" operation="replace">Köpfe</correction>
+      <correction tokenIDs="w8e" operation="replace">Bursch</correction>
+      <correction tokenIDs="w8f" operation="replace">Hölle</correction>
+      <correction tokenIDs="w90" operation="replace">Drachen</correction>
+      <correction tokenIDs="w91" operation="replace">Drache</correction>
+    </orthography>
+</guja>

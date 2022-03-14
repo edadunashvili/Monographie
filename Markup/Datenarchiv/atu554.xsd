@@ -1,0 +1,96 @@
+<xs:schema xmlns="http://www.dglab.uni-jena.de/atu/ns" xmlns:xs="http://www.w3.org/2001/xmlschema" elementformdefault="qualified" targetnamespace="http://www.dglab.uni-jena.de/atu/ns">
+    <xs:attributegroup name="atu_554">
+        <xs:attribute name="a554">
+            <xs:annotation>
+                <xs:documentation>a554 dankbare tiere</xs:documentation>
+                <xs:documentation>kern: der held gewinnt die hilfbereischaft von ihm geretteten
+                    tiere.</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="a554 dankbare tiere"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+       
+        <xs:attribute name="e554_c">
+            <xs:annotation>
+                <xs:documentation>e554_c_missachtung_des_tieres</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m554_c_c_der_falscher_held_missachtet_in_not_geratenes_tier"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e554_e">
+            <xs:annotation>
+                <xs:documentation>e554_e_leistung_des_helden_gegenueber_den_tieren_und_aussprechen_der_dankbarkeit</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m554_e_c_der_held_verschont_das_tier"/>
+                    <xs:enumeration value="m554_e_c_der_held_verteilt_das_futter_richtig"/>
+                    <xs:enumeration value="m554_e_c_der_held_kauft_das_tier_frei"/>
+                    <xs:enumeration value="m554_e_c_der_held_befreit_das_tier_von_der_falle"/>
+                    <xs:enumeration value="m554_e_c_der_held_macht_die_misstaten_von_anderen_gegenueber_den_helfer_wieder_gut"/>
+                    <xs:enumeration value="m554_e_c_der_held_gibt_dem_helfer_das_essen"/>
+                    <xs:enumeration value="m554_e_c_der_held_rettet_das_tier_oder_seine_junge"/>
+                    <xs:enumeration value="m554_e_e_das_tier_begleitet_den_held"/>
+                    <xs:enumeration value="m554_e_e_das_tier_gibt_dem_held_sein_junge"/>
+                    <xs:enumeration value="m554_e_e_das_tier_gibt_dem_held_seinen_koerperteil"/>
+                    <xs:enumeration value="m554_e_e_das_tier_uebergibt_dem_held_die_transfigurationsfaehigkeit"/>
+                    <xs:enumeration value="m554_e_e_das_tier_verspricht_den_beistand"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e554_g">
+            <xs:annotation>
+                <xs:documentation>e554_g_verstoss_auf_die_herausforderungen_bis_zum_beginn_der_loesungsmassnahmen</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m554_g_c_der_held_muss_ein_bauwerk_erschaffen"/>
+                    <xs:enumeration value="m554_g_c_der_held_muss_das_objekt_unter_einer_anzahl_der_gleichgekleideter_erkennen"/>
+                    <xs:enumeration value="m554_g_c_der_held_muss_einen_zauberteppich_berschaffen"/>
+                    <xs:enumeration value="m554_g_c_der_held_muss_im_krieg_siegen"/>
+                    <xs:enumeration value="m554_g_c_der_held_muss_einen_berg_abtragen"/>
+                    <xs:enumeration value="m554_g_c_der_held_muss_wilde_tiere_zaehmen"/>
+                    <xs:enumeration value="m554_g_c_der_held_muss_unzaehlige_koerner_sortieren"/>
+                    <xs:enumeration value="m554_g_c_der_held_muss_perlen_auflesen"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e554_i">
+            <xs:annotation>
+                <xs:documentation>e554_i_die_falschen_helden_scheitern_bei_der_loesung_der_schwierigen_aufgaben</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m554_i_c_die_falschen_helden_scheitern_bei_der_loesung_der_schwierigen_aufgaben"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e554_k">
+            <xs:annotation>
+                <xs:documentation>e554_k_der_held_geniesst_die_gegenleistung_des_tieres</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m554_k_c_der_held_geniesst_die_gegenleistung_des_tieres"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e554_m">
+            <xs:annotation>
+                <xs:documentation>e554_m_nach_der_erfuellung_der_letzten_aufgabe_bis_zum_ende_der_geschichte</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m554_m_c_der_held_nimmt_prinzessin_zur_frau"/>
+                    <xs:enumeration value="m554_m_e_der_held_wird_zum_koenig"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+    </xs:attributegroup>
+</xs:schema>

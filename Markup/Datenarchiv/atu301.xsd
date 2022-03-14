@@ -1,0 +1,136 @@
+<xs:schema xmlns="http://www.dglab.uni-jena.de/atu/ns" xmlns:vc="http://www.w3.org/2007/xmlschema-versioning"
+    xmlns:xs="http://www.w3.org/2001/xmlschema" elementformdefault="qualified"
+    targetnamespace="http://www.dglab.uni-jena.de/atu/ns">
+    <xs:attributegroup name="atu_301">
+        <xs:attribute name="a301">
+            <xs:annotation>
+                <xs:documentation>atu 301 die drei geraubten prinzessinnen</xs:documentation>
+                <xs:documentation/>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="a301: die drei geraubten prinzessinnen"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e301_c">
+            <xs:annotation>
+                <xs:documentation>e301_c_verlust_des_ob</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m301_c_c_der_antagonist_entfuehrt_das_ob"/>
+                    <xs:enumeration value="m301_c_c_der_herr_des_objekts_verbant_das_ob"/>
+                    <xs:enumeration value="m301_c_c_der_antagonist_lockt_das_objekt_zu_sich_an"/>
+                    <xs:enumeration value="m301_c_c_der_held_bricht_das_tabu_und_befreit_den_antagonist_der_antagonist_entfuehrt_das_ob"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e301_e">
+            <xs:annotation>
+                <xs:documentation>e301_e_vom_beginn_der_wanderung_bis_zum_finden_der_nachtrast
+                    e301_eb_____vertreten_durch_die_a650a_der_starke_hans
+                    e301_eb_____der_held_macht_personen_mit_besonderen_faehigkeiten_zu_gefaehrten_kein_a513a_sechse_kommen_durch_die_welt
+                    e301_eb_____platzhalter_fuer_die_a513a_sechse_kommen_durch_die_welt
+                    e301_eb_____platzhalter_fuer_die_a518_streit_um_zaubergegenstaende
+                    e301_eb_____platzhalter_fuer_die_a726_die_drei_alten	</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m301_e_c_der_held_geht_auf_die_suche_nach_dem_geraubten_ob"/>
+                    <xs:enumeration value="m301_e_c_der_held_zieht_in_die_weite_welt"/>
+                    <xs:enumeration value="m301_e_c_der_held_lauert_dem_dieb_auf_verwundet_ihn_und_folgt_den_blutspuren"/>
+                    <xs:enumeration value="m301_e_c_der_held_wird_von_einem_auftraggeber_gesandt"/>
+                    <xs:enumeration value="m301_e_e_der_held_wird_von_einem_falscher_held_begleitet"/>
+                    <xs:enumeration value="m301_e_e_auf_dem_weg_trifft_der_held_den_fh"/>
+                    <xs:enumeration value="m301_e_g_der_held_trifft_den_stifter_der_ihm_den_weg_zeigt"/>
+                    <xs:enumeration value="m301_e_i_der_held_und_der_falscher_held_finden_eine_nachtrast"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e301_g">
+            <xs:annotation>
+                <xs:documentation>e301_g_von_der_begegnung_mit_dem_antagonist_oder_verbindendes_wesen_bis_zum_betreten_der_welt_des_antagonist</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration
+                        value="m301_g_c_die_verbindendes_wesen_oder_der_antagonist_zwingt_den_falscher_held_ihm_essen_zu_geben_oder_schaedigt_sie_auf_andere_weise"/>
+                    <xs:enumeration value="m301_g_c_der_held_bezwingt_den_antagonist_oder_vb"/>
+                    <xs:enumeration
+                        value="m301_g_c_der_held_nutzt_den_kontakt_mit_dem_antagonist_oder_verbindendes_wesen_um_das_wohngebiet_des_antagonist_zu_finden"/>
+                    <xs:enumeration value="m301_g_c_der_held_gelangt_in_die_welt_des_antagonist"/>
+                    <xs:enumeration value="m301_g_c_beim_gelingen_des_wohngebietes_wird_der_held_vom_falscher_held_geholfen"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e301_i">
+            <xs:annotation>
+                <xs:documentation>e301_i_vom_betreten_des_wohnsitzes_des_antagonist_bis_zur_befreiehung_des_ob
+                    e301_ia_____kann_durch_eine_episode_aus_dem_typ_302_herz_des_unholds_im_ei_vertreten_werden	</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m301_i_c_der_held_wird_ueber_die_schwaeche_des_antagonist_berichtet"/>
+                    <xs:enumeration value="m301_i_e_der_held_wird_der_zauberwaffe_handhaft_geworden"/>
+                    <xs:enumeration value="m301_i_i_der_held_toetet_den_antagonist"/>
+                    <xs:enumeration value="m301_i_m_der_held_befreit_das_ob"/>
+                    <xs:enumeration value="m301_i_n_bereitschaft_zur_eheschliessung_zwischen_held_und_dem_ob"/>
+                    <xs:enumeration value="m301_i_o_der_held_erloest_das_bezauberte_koenigreich_und_somit_die_vb"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e301_k">
+            <xs:annotation>
+                <xs:documentation>e301_k_hochziehen_des_objekt_und_verrat_der_fh
+                    e301_ka_____platzhalter_fuer_e300_c_der_drachentoeter</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m301_k_c_der_held_fuehrt_das_befreite_objekt_zum_fh"/>
+                    <xs:enumeration value="m301_k_h_der_falscher_held_laesst_den_held_zurueck"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e301_m">
+            <xs:annotation>
+                <xs:documentation>e301_m_rueckkehr_des_helden_in_die_aussenwelt
+                    e301_ma_____platzhalter_fuer_die_e554_e_dankbare_tiere
+                    e301_ma_____platzhalter_fuer_die_e300_q_von_der_begegnung_mit_dem_vogel_bis_zum_ende_des_fluges</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m301_m_c_der_held_kehrt_zurueck"/>
+                    <xs:enumeration value="m301_m_e_die_rueckkehr_erfolgt_durch_deus_ex_machina"/>
+                    <xs:enumeration value="m301_m_e_die_rueckkehr_erfolgt_durch_die_eigene_kraft"/>
+                    <xs:enumeration value="m301_m_e_die_rueckkehr_erfolgt_mit_der_hilfe_der_vb"/>
+                    <xs:enumeration value="m301_m_g_der_held_wird_von_objekt_beraten_wie_er_entkommen_kann"/>
+                    <xs:enumeration value="m301_m_i_der_held_gelangt_in_die_weitere_fremdwelt"/>
+                    <xs:enumeration
+                        value="m301_m_k_die_verirrung_des_held_wird_durch_die_auswahl_eines_falschen_tieres_verursacht"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+        <xs:attribute name="e301_o">
+            <xs:annotation>
+                <xs:documentation>e301_o_von_der_rueckkehr_an_die_oberflaeche_bis_zur_loesung_der_durch_den_raub_ausgeloesten_krise</xs:documentation>
+            </xs:annotation>
+            <xs:simpletype>
+                <xs:restriction base="xs:normalizedstring">
+                    <xs:enumeration value="m301_o_c_der_falscher_held_zwingen_das_objekt_sie_als_ihre_befreier_auszugeben"/>
+                    <xs:enumeration
+                        value="m301_o_e_der_held_arbeitet_bei_einem_handwerker_und_stellt_die_hochzeitsgeschenke_fuer_das_objekt_her"/>
+                    <xs:enumeration value="m301_o_g_der_held_erkundigt_sich_beim_vertreter_eines_unehrlichen_berufes"/>
+                    <xs:enumeration value="m301_o_i_der_held_geht_auf_die_hochzeit"/>
+                    <xs:enumeration value="m301_o_k_der_auftraggeber_laesst_den_helden_in_den_kerker_werfen"/>
+                    <xs:enumeration value="m301_o_m_der_held_beweist_seine_heldentat"/>
+                    <xs:enumeration value="m301_o_o_der_held_ueberrascht_den_falscher_held_bei_der_misshandlung"/>
+                    <xs:enumeration value="m301_o_q_der_falscher_held_flieht"/>
+                    <xs:enumeration value="m301_o_q_der_held_toetet_den_fh"/>
+                    <xs:enumeration value="m301_o_s_der_held_heiratet_das_ob"/>
+                    <xs:enumeration value="m301_o_s_der_held_bringt_die_braut_dem_auftraggeber_zurueck"/>
+                </xs:restriction>
+            </xs:simpletype>
+        </xs:attribute>
+    </xs:attributegroup>
+</xs:schema>

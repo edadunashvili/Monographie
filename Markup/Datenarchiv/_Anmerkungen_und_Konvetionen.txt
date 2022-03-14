@@ -1,0 +1,28 @@
+anmerkungen und konventionen
+zwecks der generalisierung der funktionell homogenen inhaltselemente werden alle handlungstragenden figuren (protagonisten) nach ihren allgemeinen eigenschaften benannt. diese entsprechen der verteilung der maerchenfunktionen unter den protagonisten bzw. figuren. 
+
+die nomenklatur der handlungstragenden personen wiederholt im wesentlichen die von vladimir j. propp festgelegte liste. zwecks vervollstaendigung dieser liste wird die zahl der personen im vorliegenden standard von sieben auf elf erweitert. fuer jedes annotationselement gibt es eine abkuerzung, die wie folgt aufzuloesen ist:
+
+1.	held – der held / die heldin / die helden 
+2.	ob – das gesuchte objekt (kann entweder ein gegenstand oder eine ehepartnerin bzw. ehepartner sein)
+3.	antagonist – antagonist (gegenspieler, schaedlinge)
+4.	hf – der helfer / die helferin (sowohl ein tier als auch ein mensch bzw. mythisches wesen, aber kein zaubergegenstand, -wissen oder -faehigkeit)
+5.	zm – das zaubermittel (ein zaubergegenstand, -wissen, -faehigkeit, vgl. hf)
+6.	st – der stifter / die stifterin des zms
+7.	fh – der falsche held / die falsche heldin
+8.	ho – der herr / die herrin des obs
+9.	ag – der auftraggeber (wird oft durch den ho vertreten)
+10.	vb – verbindende person(en) / verbindendes mittel
+11.	rc – der raecher / die raecherin (ein handlungstraeger, der nach dem besiegen des antagonists den held verfolgt).
+
+die handlungstragende personen bzw. wesen und gegenstaende, stehen ueberall  im singular und werden durch den grammatischen  genus des terminus (im gegensatz zu dem genus und numerus  der instanz) bezeichnet, z.b. weibliche aschenputtel wird durch den terminus der held = der held bezeichnet; die geraubte koenigstoechter heisses ob = das [vom held] gesuchte objekt, also singular im neutrum. nach dieser konvention ist es korrekt wenn etwa geschrieben wird "der held heiratet das ob", oder "der held wird vom fh zurueckgelassen"  es sei denn, dass im letzten fall nicht ein, sondern mehrere falsche helden (fh) fungieren.
+
+jeder atu maerchentyp wird einam in der text- und dann auch in xml-fassung dargestellt.  
+jedes schema esteht aus zwei kategorie von markupelemente:
+2.	die episode. sie setzt sich aus einem index und dem zusammengefasten inhalt zusammen. der index besteht ihrerseits aus einem praefix e (=episode) und der typnummer sowie aus einem suffix mit einem alphanummerischen wert.
+3.	das motiv. es setzt sich aus einem index und einer zusammenfassende phrase zusammen. der index besteht ihrerseits aus einem praefix m (=motiv) und der typnummer sowie dem suffix mit zwei kleinen buchstaben. 
+ter typ wird automatisch durch die indizien der kelinere elemente (episode und motive) erfasst.
+
+die ausgelassene buchstaben in der reihenfolge sind platzhalter fuer die potenziell unberuecksichtigten elemente. 
+
+die lerzeilen werden ueberall mit dem unterstrichzeichen befuehlt. 

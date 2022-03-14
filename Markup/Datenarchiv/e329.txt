@@ -1,0 +1,21 @@
+e329_aa____platzhalter_fuer_die_episode_e554_c_
+
+e329_c_eingangsepisode_bis_der_ankundigung_der_heiratsbedingungen_und_reaktion_der_freier
+e329_ca___platzhalter_fuer_die_episode_e554_c_
+
+e329_e_misslungener_versuch_des_falscher_held_ohne_toedliche_konsequenzen
+
+e329_g_misslungener_versuch_des_falscher_held_mit_toedliche_konsequenzen
+e329_ga___platzhalter_fuer_die_episode_e554_c_
+
+e329_i_ misslungener_versuch_des_held
+
+e329_k_ erfolgreicher_versuch_des_held_und_unterwerfung_der_prinzessin
+
+
+------------------------
+episoden-markup fuer den typ atu 329 - versteckwette
+estellt im rahmen des seminars "theorie und praxis der vergleichenden maerchenforschung (digitale erschliessung)"
+friedrisch-schiller-universitaet jena, sommer-semester 2020
+erstellt von elguja dadunashvili
+lizenzbedingungen: cc0 1.0

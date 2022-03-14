@@ -1,0 +1,12 @@
+Ge_300_303_554_567_ID6032 | text | e567_a_Das_wunderbare_Vogelherz 
+Ge_300_303_554_567_ID6032 | text | e303_c_Eingangssituation_bis_zur_Trennung 
+Ge_300_303_554_567_ID6032 | text | e554_e_der_Held_hilft_den_Tieren_und_Tiere_sprechen_Ihre_Dankbarkeit_aus 
+Ge_300_303_554_567_ID6032 | text | e300_c_Anfangssituation_Ankunft_und_Erkundigung_der_Not 
+Ge_300_303_554_567_ID6032 | text | e300_e_Vorfeld_des_Kampfes_bis_zum_Sieg 
+Ge_300_303_554_567_ID6032 | text | e300_g_Nach_dem_Sieg_bis_zur_Trennung_des_HD_und_des_OB 
+Ge_300_303_554_567_ID6032 | text | e300_k_Misshandlung_des_FH_bis_zur_Hochzeitstag 
+Ge_300_303_554_567_ID6032 | text | e300_l_Wiederbelebung_des_HD 
+Ge_300_303_554_567_ID6032 | text | e300_m_Rückkehr_des_HD_und_Erkundung_über_die_Hochzeit_bis_zum_Wiedergewinn_der_Aufmerksamkeit 
+Ge_300_303_554_567_ID6032 | text | e300_o_Auftritt_des_HD_vor_dem_AG_bis_zur_Erkennung_seiner_Heldentat 
+Ge_300_303_554_567_ID6032 | text | e303_g_Erstes_Treffen_mit_dem_AN 
+Ge_300_303_554_567_ID6032 | text | e303_i_Vom_Erkundigung_der_Not_bis_zum_Aufbruch_des_HD_zum_AN 
