@@ -19,7 +19,7 @@
 300_undf_lit_ID19							August Leskien/K. Brugman: Litauische Volkslieder und Märchen. Europäische Märchen und Sagen, S. 404 ff.
 300_301_KAU_ID20							Märchen aus dem Kaukasus / hrsg. von Isidor Levin. Übers. von Gisela Schenkowitz
 300_301_328_513A_554_CoM_KAU_ID21			Märchen aus dem Kaukasus / hrsg. von Isidor Levin. Übers. von Gisela Schenkowitz
-300_301_302_513A_516_554_FL_KAU_ID22	Märchen aus dem Kaukasus / hrsg. von Isidor Levin. Übers. von Gisela Schenkowitz
+300_301_302_513A_516_554_KAU_ID22	Märchen aus dem Kaukasus / hrsg. von Isidor Levin. Übers. von Gisela Schenkowitz
 mess_fin_ID23						Löwis of Menar, August von: Finnische und estnische Volksmärchen. Jena: Eugen Diederichs, 1922, S. 108-113 http://www.zeno.org/nid/20007841973
 300_303_554_deu_ID24						TextGrid Repository (2012). Meier, Ernst. Märchen. Deutsche Volksmärchen aus Schwaben. 58. Der Drachentödter. 58. Der Drachentödter. Digitale Bibliothek. TextGrid. https://hdl.handle.net/11858/00-1734-0000-0004-334D-A
 300_301_554_undf_ron_ID25					Arthur und Albert Schott: Rumänische Volkserzählungen aus dem Banat Originaltitel: Walachische Maehrchen, Cotta, Stuttgart und Tübingen 1845	
@@ -70,7 +70,7 @@ mess_deu_ID67							TextGrid Repository (2012). Meier, Ernst. Märchen. Deutsche
 undf_301_deu_ID70						TextGrid Repository (2012). Jahn, Ulrich. Märchen und Sagen. Volksmärchen aus Pommern und Rügen. 18. Das Wolfskind. 18. Das Wolfskind. Digitale Bibliothek. TextGrid. https://hdl.handle.net/11858/00-1734-0000-0003-8BFB-0 
 301_deu_ID71							TextGrid Repository (2012). Jahn, Ulrich. Märchen und Sagen. Volksmärchen aus Pommern und Rügen. 22. Eine lügenhafte Geschichte. 22. Eine lügenhafte Geschichte. Digitale Bibliothek. TextGrid. https://hdl.handle.net/11858/00-1734-0000-0003-8CD1-4 
 301_deu_ID72							Das Erdmännchen KHM 91 (1857) http://www.maerchenlexikon.de/Grimm/khm-texte/khm091.htm
-301_deu_ID73							TextGrid Repository (2012). Grimm, Jacob und Wilhelm. Märchen. Kinder- und Hausmärchen. 166. Der starke Hans. 166. Der starke Hans. Digitale Bibliothek. TextGrid. https://hdl.handle.net/11858/00-1734-0000-0002-FEE8-A 
+301_eUNDF_deu_ID73							TextGrid Repository (2012). Grimm, Jacob und Wilhelm. Märchen. Kinder- und Hausmärchen. 166. Der starke Hans. 166. Der starke Hans. Digitale Bibliothek. TextGrid. https://hdl.handle.net/11858/00-1734-0000-0002-FEE8-A 
 301_deu_ID74							TextGrid Repository (2012). Colshorn, Carl und Theodor. 48. Der Zwerg mit der grünen Peitsche. Digitale Bibliothek. https://hdl.handle.net/11858/00-1734-0000-0002-5642-F 
 undf_537_deu_ID75						TextGrid Repository (2012). Birlinger, Anton. Märchen und Sagen. Sagen, Märchen, Volksaberglauben. 5.. 588. Vom Riesen und dem Storken. 588. Vom Riesen und dem Storken. Digitale Bibliothek. TextGrid. https://hdl.handle.net/11858/00-1734-0000-0005-FB88-F
 undf_301_deu_ID76						TextGrid Repository (2012). Birlinger, Anton. Märchen und Sagen. Sagen, Märchen, Volksaberglauben. 5.. 581. Hans Bär. 581. Hans Bär. Digitale Bibliothek. TextGrid. https://hdl.handle.net/11858/00-1734-0000-0006-0BAE-4
@@ -87,8 +87,9 @@ undf_301_deu_ID76						TextGrid Repository (2012). Birlinger, Anton. Märchen un
 302_518_deu_ID87						TextGrid Repository (2012). Grimm, Jacob und Wilhelm. 197. Die Kristallkugel. Digitale Bibliothek. https://hdl.handle.net/11858/00-1734-0000-0003-006F-2
 302_303A_deu_ID88						TextGrid Repository (2012). Müllenhoff, Karl. Märchen und Sagen. Sagen, Märchen und Lieder. Viertes Buch. 599. Vom Mann ohne Herz. 599. Vom Mann ohne Herz. Digitale Bibliothek. TextGrid. https://hdl.handle.net/11858/00-1734-0000-0004-49B6-D
 302_UNDF_deu_ID89						TextGrid Repository (2012). Pröhle, Heinrich. 6. Der Mann ohne Leib. Digitale Bibliothek. https://hdl.handle.net/11858/00-1734-0000-0004-7FE4-5
-
-
+301_deu_ID90							SCHLESWIG-HOLSTEINISCHE  VOLKSMÄRCHEN  (Ath 300-402) AUS DEN SAMMLUNGEN DER KIELER UNIVERSITÄTSBIBLIOTHEK, DER SCHLESWIG-HOLSTEINISCHE NLANDESBIBLIOTHEK UND DES GERMANISTISCHEN SEMINARS DER UNIVERSITÄT KIEL  HERAUSGEGEBEN UND MIT ANMERKUNGEN VERSEIIEN VON  KURT RANKE. Kiel 1955. Nr. 12, S. 81.
+301_650A_deu_ID91						SCHLESWIG-HOLSTEINISCHE  VOLKSMÄRCHEN  (Ath 300-402) AUS DEN SAMMLUNGEN DER KIELER UNIVERSITÄTSBIBLIOTHEK, DER SCHLESWIG-HOLSTEINISCHE NLANDESBIBLIOTHEK UND DES GERMANISTISCHEN SEMINARS DER UNIVERSITÄT KIEL  HERAUSGEGEBEN UND MIT ANMERKUNGEN VERSEIIEN VON  KURT RANKE. Kiel 1955. Nr. 13, S. 81-82.
+301_eCoM_deu_ID92						SCHLESWIG-HOLSTEINISCHE  VOLKSMÄRCHEN  (Ath 300-402) AUS DEN SAMMLUNGEN DER KIELER UNIVERSITÄTSBIBLIOTHEK, DER SCHLESWIG-HOLSTEINISCHE NLANDESBIBLIOTHEK UND DES GERMANISTISCHEN SEMINARS DER UNIVERSITÄT KIEL  HERAUSGEGEBEN UND MIT ANMERKUNGEN VERSEIIEN VON  KURT RANKE. Kiel 1955. Nr. 13, S. 92-93.
 
 
 

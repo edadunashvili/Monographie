@@ -1,7 +1,0 @@
-Ge_300_UNDF_ID42 | text | eUNDF_a_
-Ge_300_UNDF_ID42 | text | e300_c_Anfangssituation_Ankunft_und_Erkundigung_der_Not
-Ge_300_UNDF_ID42 | text | e300_e_Vorfeld_des_Kampfes_bis_zum_Sieg
-Ge_300_UNDF_ID42 | text | e300_g_Nach_dem_Sieg_bis_zur_Trennung_des_HD_und_des_OB
-Ge_300_UNDF_ID42 | text | e300_k_Misshandlung_des_FH_bis_zur_Hochzeitstag
-Ge_300_UNDF_ID42 | text | e300_o_Auftritt_des_HD_vor_dem_AG_bis_zur_Erkennung_seiner_Heldentat
-Ge_300_UNDF_ID42 | text | eUNDF_a_
