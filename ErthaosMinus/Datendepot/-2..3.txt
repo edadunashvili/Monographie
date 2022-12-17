@@ -1,0 +1,6 @@
+-2..3.txt|II.|0|0
+-2..3.txt|Einmal lag das Militär vom preußischen Fritz in einer Stadt, da ist ein kleiner Tambour dabei gewesen, der hat sich verliebt in eine Kaufmannstochter. Der preußische Fritz hat das wohl bemerkt, und wie sie in einer andern Stadt im Lager sind, gibt er diesem Tambour eine kleine Krone und Kleidung, wie einem ordentlichen Prinzen. So muß er sich in einen Wagen mit vier Pferden setzen und nach der Stadt, wo die Kaufmannstochter wohnt, zurückjagen. Er steigt in einem Gasthofe dem Kaufmann gegenüber ab, läßt sich bei dem ordentlich anmelden und bekommt als Prinz die Kaufmannstochter zur Frau. Am Morgen nach der Hochzeit schickt aber der preußische Fritz die ganzen Tambours, welche bei dem Regimente noch gewesen sind, unter die Fenster des Kaufmannshauses, die trommeln immerfort:|0|0
+-2..3.txt|Kamerad komm, Kamerad komm,|0|0
+-2..3.txt|Kömmst du nicht, so hol' ich dich,|0|0
+-2..3.txt|So kömmst du in Prison.|0|0
+-2..3.txt|Der Herr Prinz tritt nun wol ans Fenster und winkt seinen Kameraden verstohlen, sie möchten nur still sein. Weil die aber immerfort trommeln: "Kamerad komm, Kamerad komm", so merken zuletzt Alle, daß der Prinz ein Tambour ist. Die Kaufmannstochter aber hat er behalten, dafür hat der preußische Fritz wol gesorgt.|0|0

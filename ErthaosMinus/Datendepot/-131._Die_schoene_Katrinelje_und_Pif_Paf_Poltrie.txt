@@ -1,0 +1,29 @@
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|131. Die schöne Katrinelje und Pif Paf Poltrie.|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Guten Tag, Vater|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|Hollenthe|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|.« »Großen Dank, Pif Paf Poltrie.« »Könnt ich wohl Eure Tochter kriegen?« »O ja, wenns die Mutter Malcho (Melk-Kuh), der Bruder Hohenstolz, die Schwester Käsetraut und die schöne Katrinelje will, so kanns geschehen.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Wo ist dann die Mutter Malcho?«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Sie ist im Stall und melkt die Kuh.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Guten Tag, Mutter|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|Malcho|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|.« »Großen Dank, Pif Paf Poltrie.« »Könnt ich wohl Eure Tochter kriegen?« »O ja, wenns der Vater Hollenthe, der Bruder Hohenstolz, die Schwester Käsetraut und die schöne Katrinelje will, so kanns geschehen.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Wo ist dann der Bruder Hohenstolz?«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Er ist in der Kammer und hackt das Holz.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Guten Tag, Bruder|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|Hohenstolz|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|.« »Großen Dank, Pif Paf Poltrie.« »Könnt ich wohl Eure Schwester kriegen?« »O ja, wenns der Vater Hollenthe, die Mutter Malcho, die Schwester Käsetraut und die schöne Katrinelje will, so kanns geschehen.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Wo ist dann die Schwester Käsetraut?«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Sie ist im Garten und schneidet das Kraut.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Guten Tag, Schwester|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|Käsetraut|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|.« »Großen Dank, Pif Paf Poltrie.« »Könnt ich wohl Eure Schwester kriegen?« »O ja, wenns der Vater Hollenthe, die Mutter Malcho, der Bruder Hohenstolz und die schöne Katrinelje will, so kanns geschehen.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Wo ist dann die schöne Katrinelje?«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Sie ist in der Kammer und zählt ihre Pfennige.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Guten Tag, schöne|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|Katrinelje|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|.« »Großen Dank, Pif Paf Poltrie.« »Willst du wohl mein Schatz sein?« »O ja, wenns der Vater Hollenthe, die Mutter Malcho, der Bruder Hohenstolz, die Schwester Käsetraut will, so kanns geschehen.«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Schön Katrinelje, wieviel hast du an Brautschatz?« »Vierzehn Pfennige bares Geld, drittehalb Groschen Schuld, ein halb Pfund Hutzeln, eine Handvoll Prutzeln, eine Handvoll Wurzelen,«|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|un so der watt:|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|is dat nig en guden Brutschatt?|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|»Pif Paf Poltrie|0|0
+-131._Die_schoene_Katrinelje_und_Pif_Paf_Poltrie.txt|, was kannst du für ein Handwerk? bist du ein Schneider?« »Noch viel besser.« »Ein Schuster?« »Noch viel besser.« »Ein Ackersmann?« »Noch viel besser.« »Ein Schreiner?« »Noch viel besser.« »Ein Schmied?« »Noch viel besser.« »Ein Müller?« »Noch viel besser.« »Vielleicht ein Besenbinder?« »Ja, das bin ich: ist das nicht ein schönes Handwerk?«|0|0

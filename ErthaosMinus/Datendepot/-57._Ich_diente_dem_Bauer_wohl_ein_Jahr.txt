@@ -1,0 +1,96 @@
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|57. Ich diente dem Bauer wohl ein Jahr.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl ein Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir ein Huhn;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich mein Huhn wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl zwei Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir eine Gans;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich meine Gans wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl drei Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir ein Schaaf;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich mein Schaaf wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Trippeltrappel heißt mein Schaaf,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl vier Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir ein Schwein;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich mein Schwein wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Jägerlein heißt mein Schwein,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Trippeltrappel heißt mein Schaaf,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl fünf Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir eine Kuh;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich meine Kuh wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Ruhruh heißt meine Kuh,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Jägerlein heißt mein Schwein,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Trippeltrappel heißt mein Schaaf,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl sechs Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir ein Pferd;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich mein Pferd wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Hinundher heißt mein Pferd,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ruhruh heißt meine Kuh,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Jägerlein heißt mein Schwein,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Trippeltrappel heißt mein Schaaf,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl sieben Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir ein Weib;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich mein Weib wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Zeitvertreib heißt mein Weib,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Hinundher heißt mein Pferd,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ruhruh heißt meine Kuh,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Jägerlein heißt mein Schwein,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Trippeltrappel heißt mein Schaaf,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl acht Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir ein Kind;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich mein Kind wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Schütteling heißt mein Kind,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Zeitvertreib heißt mein Weib,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Hinundher heißt mein Pferd,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ruhruh heißt meine Kuh,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Jägerlein heißt mein Schwein,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Trippeltrappel heißt mein Schaaf,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl neun Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir einen Knecht;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich meinen Knecht wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Haberecht heißt mein Knecht,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Schütteling heißt mein Kind,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Zeitvertreib heißt mein Weib,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Hinundher heißt mein Pferd,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ruhruh heißt meine Kuh,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Jägerlein heißt mein Schwein,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Trippeltrappel heißt mein Schaaf,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ich diente dem Bauer wohl zehn Jahr,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da gab er mir eine Magd;|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Da fragten mich alle Leute,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Wie ich meine Magd wollte heißen.|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|»Unverzagt heißt meine Magd,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Haberecht heißt mein Knecht,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Schütteling heißt mein Kind,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Zeitvertreib heißt mein Weib,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Hinundher heißt mein Pferd,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Ruhruh heißt meine Kuh,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Jägerlein heißt mein Schwein,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Trippeltrappel heißt mein Schaaf,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Langhals heißt meine Gans,|0|0
+-57._Ich_diente_dem_Bauer_wohl_ein_Jahr.txt|Kükelhahn heißt mein Huhn.«|0|0

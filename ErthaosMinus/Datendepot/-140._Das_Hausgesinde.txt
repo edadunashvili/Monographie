@@ -1,0 +1,16 @@
+-140._Das_Hausgesinde.txt|140. Das Hausgesinde.|0|0
+-140._Das_Hausgesinde.txt|»Wo wust du henne?« »Nah|0|0
+-140._Das_Hausgesinde.txt|Walpe|0|0
+-140._Das_Hausgesinde.txt|.« »Ick nah Walpe, du nah Walpe; sam, sam, goh wie dann.«|0|0
+-140._Das_Hausgesinde.txt|»Häst du auck 'n Mann? wie hedd din Mann?« »|0|0
+-140._Das_Hausgesinde.txt|Cham|0|0
+-140._Das_Hausgesinde.txt|.« »Min Mann Cham, din Mann Cham: ick nah Walpe, du nah Walpe; sam, sam, goh wie dann.«|0|0
+-140._Das_Hausgesinde.txt|»Häst du auck 'n Kind: wie hedd din Kind?« »|0|0
+-140._Das_Hausgesinde.txt|Grind|0|0
+-140._Das_Hausgesinde.txt|.« »Min Kind Grind, din Kind Grind: min Mann Cham, din Mann Cham: ick nah Walpe, du nah Walpe; sam, sam, goh wie dann.«|0|0
+-140._Das_Hausgesinde.txt|»Häst du auck 'ne Weige? wie hedd dine Weige?« »|0|0
+-140._Das_Hausgesinde.txt|Hippodeige|0|0
+-140._Das_Hausgesinde.txt|.« »Mine Weige Hippodeige, dine Weige Hippodeige: min Kind Grind, din Kind Grind: min Mann Cham, din Mann Cham: ick nah Walpe, du nah Walpe; sam, sam, goh wie dann.«|0|0
+-140._Das_Hausgesinde.txt|»Häst du auck 'n Knecht? wie hedd din Knecht?« »|0|0
+-140._Das_Hausgesinde.txt|Machmirsrecht|0|0
+-140._Das_Hausgesinde.txt|.« »Min Knecht Machmirsrecht, din Knecht Machmirsrecht: mine Weige Hippodeige, dine Weige Hippodeige: min Kind Grind, din Kind Grind: min Mann Cham, din Mann Cham: ick nah Walpe, du nah Walpe; sam, sam, goh wie dann.«|0|0
