@@ -3,6 +3,6 @@ Ge_300_UNDF_ID42|text|eUNDF_a_|
 Ge_300_UNDF-kat_dbID42|text|e300_c_anfangssituation_ankunft_und_erkundigung_der_not|
 300_UNDF-kat_dbID42|text|e300_e_vorfeld_des_kampfes_bis_zum_sieg|
 300_UNDF-kat_dbID42|text|e300_g_nach_dem_sieg_bis_zur_trennung_des_HD_und_des_OB|
-300_UNDF-kat_dbID42|text|e300_k_misshandlung_des_FH_bis_zur_hochzeitstag|
+300_UNDF-kat_dbID42|text|e300_k_misshandlung_des_FH_bis_zur_hochzeit|
 300_UNDF-kat_dbID42|text|e300_o_auftritt_des_HD_vor_dem_AG_bis_zur_erkennung_seiner_heldentat|
 300_UNDF-kat_dbID42|text|eUNDF_a_|
