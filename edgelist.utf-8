@@ -1,5 +1,5 @@
-#C:\Users\elguj\anaconda3\lib\site-packages\ipykernel_launcher.py -f C:\Users\elguj\AppData\Roaming\jupyter\runtime\kernel-7d83a1a8-59bc-48fa-9b7a-d2850156d9a3.json
-# GMT Thu Aug 18 15:11:13 2022
+#C:\Users\elguj\anaconda3\lib\site-packages\ipykernel_launcher.py -f C:\Users\elguj\AppData\Roaming\jupyter\runtime\kernel-2c8e2348-705f-41fd-b536-f8705696c49e.json
+# GMT Mon Feb 13 18:39:09 2023
 # 
 e300_c_	4
 e300_e_	{'weight': 21}
@@ -9,9 +9,7 @@ eUNDF_a_	{'weight': 5}
 e300_e_	2
 e300_g_	{'weight': 17}
 eUNDF_a_	{'weight': 5}
-e303_c_	2
-e554_e_	{'weight': 7}
-eCoM_c_	{'weight': 6}
+e303_c_	0
 e554_e_	0
 eUNDF_a_	0
 e300_g_	1
@@ -27,13 +25,4 @@ e300_o_	2
 End-e300_o_	{'weight': 7}
 e303_g_	{'weight': 10}
 End-e300_o_	0
-e303_g_	1
-e303_i_	{'weight': 10}
-eCoM_c_	0
-e303_i_	1
-e303_k_	{'weight': 10}
-e303_k_	2
-End-e303_k_	{'weight': 4}
-e303_m_	{'weight': 4}
-End-e303_k_	0
-e303_m_	0
+e303_g_	0
