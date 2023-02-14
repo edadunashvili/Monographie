@@ -7,4 +7,4 @@ Für die automatische Erkennung der stabilen inhaltlichen Komponente des Märche
 
 Für die Auswertung und Visualisierung der bereits annotierten Forschungsdaten ist der Jupyter-Notebook 'auswertung.ipynb' einzusetzen.
 
-Die urheberrechtlich geschützten Texte unter den Trainings- bzw. Messdaten sind in ihren abgeleiteten Textformate veröffentlicht. Dabei ist die ethode der Bereinigung der Texte von den sog. Stoppwörter übernommen. Alle bibliographische Angaben über die Textdaten sind in der Anlage 'Bibliographie.csv' zu finden.
+Die urheberrechtlich geschützten Texte unter den Trainings- bzw. Messdaten sind in ihren abgeleiteten Textformate veröffentlicht. Dabei wird die Methode der Bereinigung der Texte von den sog. Stoppwörter übernommen. Alle bibliographische Angaben über die Textdaten sind in der Anlage 'Bibliographie.csv' zu finden.
