@@ -8,3 +8,4 @@ Für die automatische Erkennung der stabilen inhaltlichen Komponente des Märche
 Für die Auswertung und Visualisierung der bereits annotierten Forschungsdaten ist der Jupyter-Notebook 'auswertung.ipynb' einzusetzen.
 
 Die urheberrechtlich geschützten Texte unter den Trainings- bzw. Messdaten sind in ihren abgeleiteten Textformate veröffentlicht. Dabei wird die Methode der Bereinigung der Texte von den sog. Stoppwörter übernommen. Alle bibliographische Angaben über die Textdaten sind in der Anlage 'Bibliographie.csv' zu finden.
+[Der Kode in Google Colab ausführen](https://colab.research.google.com/github/edadunashvili/Monographie/blob/main/erthaos_1_0.ipynb)
