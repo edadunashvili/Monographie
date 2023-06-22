@@ -1,29 +1,47 @@
-#C:\Users\elguj\anaconda3\lib\site-packages\ipykernel_launcher.py -f C:\Users\elguj\AppData\Roaming\jupyter\runtime\kernel-38820c94-9fa1-48bb-88c4-b2a3ca600ea9.json
-# GMT Wed May 10 07:27:54 2023
+#C:\Users\elguj\anaconda3\lib\site-packages\ipykernel_launcher.py -f C:\Users\elguj\AppData\Roaming\jupyter\runtime\kernel-ac06d983-4dd2-4b23-9564-5723bee050ae.json
+# GMT Mon Jun 19 22:08:57 2023
 # 
-e300_c_	4
-e300_e_	{'weight': 21}
-e303_c_	{'weight': 6}
-e554_e_	{'weight': 5}
-eUNDF_a_	{'weight': 5}
-e300_e_	3
-e300_g_	{'weight': 17}
-e300_o_	{'weight': 3}
-eUNDF_a_	{'weight': 5}
-e303_c_	0
-e554_e_	0
+e301_c_	2
+Anf-e301_c_	{'weight': 3}
+e301_e_	{'weight': 3}
+Anf-e301_c_	0
+e301_e_	6
+Anf-e301_e_	{'weight': 4}
+e301_g_	{'weight': 12}
+e301_i_	{'weight': 1}
+e650A_c_	{'weight': 2}
+e650A_e_	{'weight': 3}
+e650A_m_	{'weight': 1}
+Anf-e301_e_	0
+e301_g_	3
+e301_i_	{'weight': 9}
+e301_k_	{'weight': 1}
+eUNDF_a_	{'weight': 1}
+e301_i_	4
+End-e301_i_	{'weight': 1}
+e301_i_	{'weight': 6}
+e301_k_	{'weight': 11}
+e301_m_	{'weight': 2}
+e650A_c_	2
+Anf-e650A_c_	{'weight': 6}
+e650A_e_	{'weight': 4}
+e650A_e_	1
+e650A_g_	{'weight': 1}
+e650A_m_	1
+e650A_k_	{'weight': 1}
+e301_k_	2
+e301_m_	{'weight': 7}
+e301_o_	{'weight': 1}
 eUNDF_a_	0
-e300_g_	1
-e300_k_	{'weight': 16}
-e300_o_	3
-e300_m_	{'weight': 14}
-End-e300_o_	{'weight': 7}
-e303_g_	{'weight': 10}
-e300_k_	2
-e300_l_	{'weight': 5}
-e300_m_	{'weight': 8}
-e300_l_	1
-e300_m_	{'weight': 5}
-e300_m_	0
-End-e300_o_	0
-e303_g_	0
+End-e301_i_	0
+e301_m_	1
+e301_o_	{'weight': 9}
+e301_o_	1
+End-e301_o_	{'weight': 10}
+End-e301_o_	0
+Anf-e650A_c_	0
+e650A_g_	1
+e650A_i_	{'weight': 1}
+e650A_i_	1
+e650A_k_	{'weight': 1}
+e650A_k_	0
